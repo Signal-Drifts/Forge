@@ -38,3 +38,10 @@ next-env.d.ts
 /work/
 
 *.tsbuildinfo
+
+# Local model data and Python runtime
+.venv/
+.forge/
+__pycache__/
+.pytest_cache/
+*.pyc

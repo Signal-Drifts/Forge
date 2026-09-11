@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Forge — Model Studio',
-  description: 'Three interface concepts for fine-tuning, pruning, and quantization.',
+  title: 'Forge: Model Studio',
+  description: 'Configure model fine-tuning, pruning, and quantization.',
 };
 
 export default function RootLayout({
