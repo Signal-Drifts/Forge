@@ -2,7 +2,7 @@
 
 Local model in, tuned model out. Your model files stay on your machine.
 
-Website: [https://signal-drifts.github.io/YoFile/](https://signal-drifts.github.io/YoFile/)
+Website: [https://signal-drifts.github.io/YoFile/suite.html?app=forge](https://signal-drifts.github.io/YoFile/suite.html?app=forge)
 
 Current status: **development build**
 
